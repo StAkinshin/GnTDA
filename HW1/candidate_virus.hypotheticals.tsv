@@ -1,0 +1,15 @@
+#Annotated with Bakta v1.12.0, https://github.com/oschwengers/bakta
+#Database v6.0, https://doi.org/10.5281/zenodo.4247252
+#Sequence Id	Start	Stop	Strand	Locus Tag	Mol Weight [kDa]	Iso El. Point	Pfam hits	Dbxrefs
+contig_1	63	218	+	IGEDCF_001	5.9	11.7		
+contig_1	370	1629	-	IGEDCF_002	45.6	10.1		
+contig_1	1644	2009	-	IGEDCF_003	13.8	5.4		
+contig_1	2016	2147	-	IGEDCF_004	5.2	4.2		
+contig_1	2144	2509	-	IGEDCF_005	13.7	8.2		
+contig_1	2516	2701	-	IGEDCF_006	7.3	4.7		
+contig_1	2712	3380	-	IGEDCF_007	25.1	9.5		
+contig_1	3561	3722	+	IGEDCF_008	5.6	9.7		
+contig_1	3683	4510	-	IGEDCF_009	31.1	5.6		
+contig_1	4519	8340	-	IGEDCF_010	141.2	6.2		
+contig_1	8348	16135	-	IGEDCF_011	293.0	6.9	PF13086.12|AAA_11, PF13087.12|AAA_12, PF13538.12|UvrD_C_2, PF13604.12|AAA_30	PFAM:PF13086.12, PFAM:PF13087.12, PFAM:PF13538.12, PFAM:PF13604.12
+contig_1	16420	29586	-	IGEDCF_012	488.1	6.0	PF01661.27|Macro	PFAM:PF01661.27

@@ -1,0 +1,19 @@
+# Annotated with Bakta
+# Software: v1.12.0
+# Database: v6.0, light
+# DOI: 10.1099/mgen.0.000685
+# URL: github.com/oschwengers/bakta
+#Sequence Id	Type	Start	Stop	Strand	Locus Tag	Gene	Product	DbXrefs
+contig_1	cds	63	218	+	IGEDCF_001		hypothetical protein	
+contig_1	ncRNA-region	241	300	-			Coronavirus 3' UTR pseudoknot	RFAM:RF00165, SO:0005836
+contig_1	cds	370	1629	-	IGEDCF_002		hypothetical protein	
+contig_1	cds	1644	2009	-	IGEDCF_003		hypothetical protein	
+contig_1	cds	2016	2147	-	IGEDCF_004		hypothetical protein	
+contig_1	cds	2144	2509	-	IGEDCF_005		hypothetical protein	
+contig_1	cds	2516	2701	-	IGEDCF_006		hypothetical protein	
+contig_1	cds	2712	3380	-	IGEDCF_007		hypothetical protein	
+contig_1	cds	3561	3722	+	IGEDCF_008		hypothetical protein	
+contig_1	cds	3683	4510	-	IGEDCF_009		hypothetical protein	
+contig_1	cds	4519	8340	-	IGEDCF_010		hypothetical protein	
+contig_1	cds	8348	16135	-	IGEDCF_011		hypothetical protein	PFAM:PF13086.12, PFAM:PF13087.12, PFAM:PF13538.12, PFAM:PF13604.12
+contig_1	cds	16420	29586	-	IGEDCF_012		hypothetical protein	PFAM:PF01661.27
