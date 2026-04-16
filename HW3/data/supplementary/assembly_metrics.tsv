@@ -1,0 +1,22 @@
+parameter	hybrid_spades	spades_	skesa
+Length	5444102	5316783	5199143
+Count	71	499	557
+GC	50.6	50.5	50.5
+N50	968098	105346	35468
+N90	235199	18262	6380
+N ratio	0.0	0.0	0.0
+coding density	88.4	86.5	84.8
+tRNAs	96	80	41
+tmRNAs	1	1	1
+rRNAs	23	5	2
+ncRNAs	201	191	180
+ncRNA regions	57	56	54
+CRISPR arrays	1	1	1
+CDSs	5136	4964	4856
+pseudogenes	16	15	13
+hypotheticals	105	132	161
+sORFs	79	80	77
+gaps	16	18	0
+oriCs	3	3	4
+oriVs	0	0	0
+oriTs	5	5	5
