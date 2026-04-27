@@ -1,0 +1,2 @@
+"SampleID"	"Haplogroup"	"Rank"	"Quality"	"Range"
+"dd5984"	"U5b2a4"	"1"	"0.5198"	"1-16569"
